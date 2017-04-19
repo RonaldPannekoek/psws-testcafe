@@ -1,0 +1,11 @@
+{
+  "name": "psws-testcafe",
+  "version": "1.0.0",
+  "description": "End-to-end testen voor psws-sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ps02-*-public.js"
+  },
+  "author": "Ronald Pannekoek",
+  "license": "ISC"
+}
