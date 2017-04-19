@@ -4,7 +4,7 @@ const page = new Page();
 
 fixture(`Getting Started`).page`https://www.pannekoeksoftware.nl`;
 
-//testcafe chrome www.pannekoeksoftware.nl.testcafe.js
+//testcafe chrome ps02-pannekoeksoftware-public.testcafe.js
 
 const TESTCAFE_USER = process.env['TESTCAFE_USER'],
   TESTCAFE_PASSWORD = process.env['TESTCAFE_PASSWORD'];
